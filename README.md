@@ -10,3 +10,4 @@ All codes of **May leetcode challenge** are available in **c++** language.
   * [Day 4](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/NumberComplement.cpp)
   * [Day 5](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/FirstUniqueCharacterInAString.cpp)
   * [Day 6](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/MajorityElement.cpp)
+  * [Day 7](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/CousinsInBinaryTree.cpp)
