@@ -11,3 +11,5 @@ All codes of **May leetcode challenge** are available in **c++** language.
   * [Day 5](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/FirstUniqueCharacterInAString.cpp)
   * [Day 6](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/MajorityElement.cpp)
   * [Day 7](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%201/CousinsInBinaryTree.cpp)
+* **[Week 2](https://github.com/nishantprajapati123/May-LeetCoding-challenge/tree/master/Week%202)**
+  * [Day 8](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%202/CheckIfItIsAStraightLine.cpp)
