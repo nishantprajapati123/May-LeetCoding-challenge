@@ -26,3 +26,4 @@ All codes of **May leetcode challenge** are available in **c++** language.
   * [Day 18](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%203/PermutationInString.cpp)
   * [Day 19](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%203/OnlineStockSpan.cpp)
   * [Day 20](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%203/KthSmallestElementInABST.cpp)
+  * [Day 21](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%203/CountSquareSubmatricesWithAllOnes.cpp)
