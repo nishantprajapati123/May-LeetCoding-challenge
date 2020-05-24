@@ -30,3 +30,4 @@ All codes of **May leetcode challenge** are available in **c++** language.
 * **[Week 4](https://github.com/nishantprajapati123/May-LeetCoding-challenge/tree/master/Week%204)**
   * [Day 22](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/SortCharactersByFrequency.cpp)
   * [Day 23](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/IntervalListIntersections.cpp)
+  * [Day 24](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/ConstructBinarySearchTreeFromPreorderTraversal.cpp)
