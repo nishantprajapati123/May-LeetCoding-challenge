@@ -35,3 +35,5 @@ All codes of **May leetcode challenge** are available in **c++** language.
   * [Day 26](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/ContiguousArray.cpp)
   * [Day 27](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/PossibleBipartition.cpp)
   * [Day 28](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%204/CountingBits.cpp)
+* **[Week 5](https://github.com/nishantprajapati123/May-LeetCoding-challenge/tree/master/Week%205)**
+  * [Day 29](https://github.com/nishantprajapati123/May-LeetCoding-challenge/blob/master/Week%205/CourseSchedule.cpp)
